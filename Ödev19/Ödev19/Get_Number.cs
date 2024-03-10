@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ödev19
+{
+    internal class Get_Number
+    {
+        public static int Get_Number_1()
+        {
+            Console.WriteLine("1.Sayıyı giriniz");
+            return Convert.ToInt32(Console.ReadLine());
+        }
+
+        public static int Get_Number_2()
+        {
+            Console.WriteLine("2.Sayıyı giriniz");
+            return Convert.ToInt32(Console.ReadLine());
+        }
+    }
+}

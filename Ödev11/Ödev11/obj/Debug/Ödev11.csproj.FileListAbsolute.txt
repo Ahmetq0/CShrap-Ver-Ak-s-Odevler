@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.exe.config
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.exe
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.pdb
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.exe
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\03.C#HomeWorks\02.Hafta Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.pdb
